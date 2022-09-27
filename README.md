@@ -25,4 +25,5 @@ echo 克隆2401的BDXworkShop库
 
 git clone https://github.com/CMA2401PT/BDXWorkShop
 
-ls && cd BDXWorkShop
+ls
+cd BDXWorkShop
