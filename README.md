@@ -1,0 +1,2 @@
+# installBDXWorkShop
+在zerotermux快速安装BDXWorkShop所需要的库
