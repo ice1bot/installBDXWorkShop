@@ -16,10 +16,12 @@ pip install mido
 
 echo 请将Sample07_cmd_music.py的need_sign=True修改为False即可运行转换
 
-echo BDxWorkShoo所需要环境安装完成
+echo BDxWorkShop所需要环境安装完成
 
-echo 克隆2401的BDXworkShop库
+echo 克隆CMA2401PT的BDXworkShop库
 
 git clone https://github.com/CMA2401PT/BDXWorkShop
 
-ls && cd BDXWorkShop
+ls
+
+cd BDXWorkShop
