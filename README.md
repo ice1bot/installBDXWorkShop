@@ -1,7 +1,8 @@
 # installBDXWorkShop 
 
  在zerotermux快速安装BDXWorkShop的mid转bdx音乐所需要的库
-##快速开始
+ 
+## 快速开始
  ```bash
  pkg install git
  ```
