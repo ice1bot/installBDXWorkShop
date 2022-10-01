@@ -25,4 +25,4 @@
 ##
 
 
-<img src="https://www.cvsea.cn/bing" width="200" height="60"/>
+<img src="https://bing.img.run/uhd.php" width="auto" height="auto"/>
