@@ -24,5 +24,4 @@
 ```
 ##
 
-
-<img src="https://bing.img.run/uhd.php" width="auto" height="auto"/>
+联系QQ：<a href="https://wpa.qq.com/wpa_jump_page?v=3&uin=2690197367&site=qq&menu=yes">2690197367</a>
