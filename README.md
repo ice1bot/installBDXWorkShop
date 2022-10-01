@@ -23,3 +23,8 @@
  bash install.sh
 ```
 ##
+<p align="center"> 
+     <a href="https://www.cvsea.cn" target="_blank" rel="noopener noreferrer"> 
+         <img width="100" src="https://bing.img.run/uhd.php" alt="bing每日壁纸" /> 
+     </a> 
+ </p>
