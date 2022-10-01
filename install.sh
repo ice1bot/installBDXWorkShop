@@ -19,6 +19,8 @@ echo 请将Sample07_cmd_music.py的need_sign=True修改为False即可运行转�
 echo BDxWorkShop所需要环境安装完成
 
 echo 克隆CMA2401PT的BDXworkShop库
+echo 如果因为网络问题克隆失败请复制以下命令收到克隆
+echo git clone https://github.com/CMA2401PT/BDXWorkShop
 
 git clone https://github.com/CMA2401PT/BDXWorkShop
 
