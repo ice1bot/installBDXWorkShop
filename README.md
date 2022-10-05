@@ -8,7 +8,7 @@
  pkg install git
  ```
  ```bash
- git clone https://github.com/starrycn/installBDXWorkShop
+ git clone https://github.com/xiaohaiNohappy/installBDXWorkShop
  ```
  ```bash
  cd installBDXWorkShop
