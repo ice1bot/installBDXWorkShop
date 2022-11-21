@@ -1,6 +1,6 @@
 ## 注意！仅在Python3.10.7运行过，其他版本Python未知
 # installBDXWorkShop 
-### 不出意外就可以安装所以的库，出意外就
+### 不出意外就可以安装所有的库，出意外就
 ```sed -i 's@^\(deb.*stable main\)$@#\1\ndeb https://mirrors.tuna.tsinghua.edu.cn/termux/termux-packages-24 stable main@' $PREFIX/etc/apt/sources.list && apt update && apt upgrade```
 切换```清华源```或挂VPN
 
