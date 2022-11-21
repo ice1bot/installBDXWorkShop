@@ -3,8 +3,7 @@
 ### 不出意外就可以安装所以的库，出意外就```
 sed -i 's@^\(deb.*stable main\)$@#\1\ndeb https://mirrors.tuna.tsinghua.edu.cn/termux/termux-packages-24 stable main@' $PREFIX/etc/apt/sources.list && apt update && apt upgrade
 ```换这个源或挂```
-VPN
-```
+VPN```
 
  在<a href="https://vccv.tk/?s=zerotermux">zerotermux</a>快速安装<a href="https://github.com/CMA2401PT/BDXWorkShop">BDXWorkShop</a>的mid转bdx音乐所需要的库
  
