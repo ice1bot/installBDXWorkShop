@@ -12,7 +12,7 @@ sed -i 's@^\(deb.*stable main\)$@#\1\ndeb https://mirrors.tuna.tsinghua.edu.cn/t
  pkg install git
  ```
  ```bash
- git clone https://github.com/xiaohaiNohappy/installBDXWorkShop
+ git clone https://github.com/Subcv/installBDXWorkShop
  ```
  ```bash
  cd installBDXWorkShop
