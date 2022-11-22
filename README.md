@@ -7,23 +7,9 @@
  在<a href="https://vccv.tk/?s=zerotermux">zerotermux</a>快速安装<a href="https://github.com/CMA2401PT/BDXWorkShop">BDXWorkShop</a>的mid转bdx音乐所需要的库
  
 ## 快速开始
- ```bash
- pkg install git
- ```
- ```bash
- git clone https://github.com/Subcv/installBDXWorkShop
- ```
- ```bash
- cd installBDXWorkShop
- ```
- ```bash
- cp install.sh ~
- ```
- ```bash
- cd ..
- ```
- ```bash
- bash install.sh
+
+```bash
+bash -c "$(curl -fsSL https://subcv.github.io/installBDXWorkShop/install.sh)"
 ```
 ##
 
