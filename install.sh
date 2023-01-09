@@ -1,4 +1,8 @@
 #!/bin/bash
+red='\033[0;31m'
+echo -e ${red}正在切换清华源
+sleep 1
+sed -i 's@^\(deb.*stable main\)$@#\1\ndeb https://mirrors.tuna.tsinghua.edu.cn/termux/termux-packages-24 stable main@' $PREFIX/etc/apt/sources.list && apt update && apt upgrade
 
 apt update -y && apt upgrade -y
 
