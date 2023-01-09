@@ -1,6 +1,11 @@
 #!/bin/bash
 red='\033[0;31m'
+green='\033[0;32m' 
+ yellow='\033[0;33m' 
+ plain='\033[0m' 
+ lan='\033[0;34m'
 echo -e ${red}正在切换清华源
+echo -e ${yellow}建议使用科学上网，否则下载安装将会很慢
 sleep 1
 sed -i 's@^\(deb.*stable main\)$@#\1\ndeb https://mirrors.tuna.tsinghua.edu.cn/termux/termux-packages-24 stable main@' $PREFIX/etc/apt/sources.list && apt update && apt upgrade
 
