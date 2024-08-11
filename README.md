@@ -9,7 +9,7 @@
 ## 快速开始
 
 ```bash
-bash -c "$(curl -fsSL https://subcv.github.io/installBDXWorkShop/install.sh)"
+bash -c "$(curl -fsSL https://likemc.xyz/bdxworkshop/install.sh)"
 ```
 ##
 
